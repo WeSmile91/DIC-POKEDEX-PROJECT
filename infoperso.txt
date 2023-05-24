@@ -1,0 +1,5 @@
+infoPerso ('Captain Smile' , 'SCK 39','https://assets.codepen.io/6093409/sprocket.svg' , 'WeSmi1e') ;
+infoPerso ('Captain Dev' , 'SCK 36','https://visualstudio.microsoft.com/wp-content/upIoads/2021/1O/Product-Icon.svg' , 'Don Dev') ;
+infoPerso ('Young Fûton' , 'SCK 24','https://up10ad.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' , 'Le vent prend son temps') ;
+ 
+
